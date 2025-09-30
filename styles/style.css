@@ -327,10 +327,6 @@
   border: 2px solid var(--accent-color, black);
 }
 
-.card__icon-button:focus {
-  outline: none;
-}
-
 .animated__button::before {
   display: block;
   content: "";
